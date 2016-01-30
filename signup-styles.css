@@ -1,0 +1,53 @@
+
+form.signup-form {
+	width: 250px;
+	margin: 0 auto;
+}
+
+input {
+	height: 25px;
+	box-sizing: border-box;
+}
+
+.half-group input {
+  width: 50%;
+  float: left;
+}
+
+
+.full-group input.input-text {
+	width: 100%;
+}
+
+input.input-text,
+input[type="radio"] {
+	margin-top: 10px;
+}
+
+html,body {
+  
+  min-height: 100%;
+}
+
+body 
+{
+background-image:url("https://static.pexels.com/photos/970/rainy-rain-raindrops-drops-of-water.jpg");
+  
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+}
+
+h1,h3{text-align:center}
+
+button {
+  background-color:#003366;
+  border:0;
+  color:white;
+  
+}
+
+.button-big {
+  width: 60%;
+}
+
+
